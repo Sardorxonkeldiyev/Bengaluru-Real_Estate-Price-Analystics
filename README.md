@@ -1,8 +1,7 @@
 # 🏢 Bengaluru Real Estate Market & Price Analytics
 
-<p align="center">
-  <img src="Bengaluru Real Estate Market & Price Analystics.png" alt="Dashboard Overview" width="100%">
-</p>
+<img width="1401" height="786" alt="Bengaluru Real Estate Market   Price Analystics" src="https://github.com/user-attachments/assets/467347af-c020-47e1-893c-8cfdfa372dc9" />
+
 
 ---
 
